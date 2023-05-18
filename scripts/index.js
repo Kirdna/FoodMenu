@@ -18,7 +18,7 @@ let menu = {
         "Veggie Plate"
     ],
     desserts: [
-        "Cheesecake", "Chocolate Cake", "Snickerdoodle Cookie"
+        "Cheesecake", "Chocolate Cake", "Snickerdoodle Cookie", "Key Lime", "Flan"
     ]
 };
 
